@@ -1,0 +1,19 @@
+abstract: Effects of progressive dopamine deficiency on networks engaged in vigorous
+  volitional movements as encountered in compensated (prodromal) to decompensated
+  (clinical stage) Parkinson’s disease will be explored. Structural and functional
+  networks implicated in the planning and incentive salience of vigorous volitional
+  movements will be investigated using a combination of computational phenotyping
+  and molecular, functional, and structural neuroimaging technologies. The project
+  will also probe dynamic network states, network topologies, and their efficacy associated
+  with mitigation of motor deficits.
+authors:
+- {family-names: Hönig, given-names: Merle}
+- {family-names: Eimeren, given-names: Thilo, name-particle: van}
+- {family-names: Giehl, given-names: Kathrin}
+- {family-names: Asendorf, given-names: Adrian}
+- {family-names: Banwinkler, given-names: Magdalena}
+- {family-names: Theis, given-names: Hendrik}
+cff-version: 1.2.0
+message: Generated with data scraped from crc1451.uni-koeln.de
+title: 'C03: Striatal dopamine and volitional motor control: vigour, planning, and
+  incentive salience'
