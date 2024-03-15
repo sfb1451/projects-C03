@@ -1,0 +1,4 @@
+[submodule "DoMoCo"]
+	path = DoMoCo
+	url = ./DoMoCo
+	datalad-id = dd5da8d4-38c6-4890-809a-2355cfb18d91
